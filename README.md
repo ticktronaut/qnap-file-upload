@@ -1,5 +1,5 @@
 # qnap-file-upload
-Simple script to upload a file to Qnap share using a POST request via curl. Not a big dea, but since I did not imediatelly catch the idea on how to do this and some peaple expressed their interest, I will share it here.
+Simple script to upload a file to Qnap share using a POST request via curl. No big deal, but since I did not catch the idea on how to do this immediately and some peaple expressed their interest, I will share it here.
 
 ## usage
 
