@@ -10,6 +10,6 @@ Simple script to upload a file to Qnap share using a POST request via curl. No b
    -p  Specify remote path PATH
  ```
 
- ## further information
+## further information
 
-Further information on the HTTP API can be found here. Maybe I will extend the features of the script to further functionality of this cgi script like creating a directore on the share.
+Further information on the HTTP API can be found [here](http://download.qnap.com/dev/QNAP_QTS_File_Station_API_v4.1.pdf). Maybe I will extend the features of the script to some stuff of this documentation like creating a directore on the share.
